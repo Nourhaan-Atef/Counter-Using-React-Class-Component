@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Counter-Using-React-Class-Component/static/css/main.c75c9429.css",
+    "main.css": "/Counter-Using-React-Class-Component/static/css/main.ade832ff.css",
     "main.js": "/Counter-Using-React-Class-Component/static/js/main.0f6db4c6.js",
     "static/js/787.e458d2a5.chunk.js": "/Counter-Using-React-Class-Component/static/js/787.e458d2a5.chunk.js",
     "index.html": "/Counter-Using-React-Class-Component/index.html",
-    "main.c75c9429.css.map": "/Counter-Using-React-Class-Component/static/css/main.c75c9429.css.map",
+    "main.ade832ff.css.map": "/Counter-Using-React-Class-Component/static/css/main.ade832ff.css.map",
     "main.0f6db4c6.js.map": "/Counter-Using-React-Class-Component/static/js/main.0f6db4c6.js.map",
     "787.e458d2a5.chunk.js.map": "/Counter-Using-React-Class-Component/static/js/787.e458d2a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c75c9429.css",
+    "static/css/main.ade832ff.css",
     "static/js/main.0f6db4c6.js"
   ]
 }
